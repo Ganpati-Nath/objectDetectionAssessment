@@ -17,7 +17,8 @@ This project implements an object detection and hierarchical analysis system usi
 │   ├── sample_video.mp4       # Input video
 │   ├── output/                # Output directory (JSONs and images)
 ├── README.md                  # Documentation
-└── requirements.txt           # Dependencies```
+└── requirements.txt           # Dependencies
+```
 
 ## Setup Instructions
 
